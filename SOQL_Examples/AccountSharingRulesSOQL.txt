@@ -1,0 +1,1 @@
+SELECT Id, AccountId, UserOrGroupId, AccountAccessLevel, OpportunityAccessLevel, CaseAccessLevel, ContactAccessLevel, RowCause, LastModifiedDate, LastModifiedById, IsDeleted FROM AccountShare
