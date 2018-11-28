@@ -1,0 +1,1 @@
+SELECT Id, ParentId, UserOrGroupId, AccessLevel, RowCause, LastModifiedDate, LastModifiedById, IsDeleted FROM [ObjectName__Share]
