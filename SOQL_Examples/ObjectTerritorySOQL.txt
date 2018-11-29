@@ -1,0 +1,1 @@
+SELECT Id, ObjectId, Territory2.Name, AssociationCause, SobjectType, IsDeleted, LastModifiedDate, LastModifiedById, SystemModstamp FROM ObjectTerritory2Association
