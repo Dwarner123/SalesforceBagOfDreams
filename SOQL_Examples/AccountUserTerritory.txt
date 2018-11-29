@@ -1,0 +1,1 @@
+SELECT Id, Account.Name, Territory2.Name, User.Name, RoleInTerritory2, LastModifiedDate FROM AccountUserTerritory2View
