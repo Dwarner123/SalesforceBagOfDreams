@@ -1,6 +1,7 @@
 # SalesforceBagOfDreams
 
 test edit
+test sign
 
 ## Convert Package Deploy To VS Code  Structure
 
